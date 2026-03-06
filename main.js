@@ -6,9 +6,10 @@
     }).then(allData => {
         let table = document.getElementById("pop-data");
         table.innerHTML = "";
+        
         allData.data.forEach(row => {
             table.innerHTML += renderRow(row.Year, row.Population);
-        });;
+        });
     });
 
     function renderRow(yr,pop) {

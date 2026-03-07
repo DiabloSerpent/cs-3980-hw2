@@ -15,8 +15,8 @@
     function renderRow(yr,pop) {
         return `
         <tr>
-            <th>${yr}</th>
-            <th>${pop}</th>
+            <td>${yr}</td>
+            <td>${pop}</td>
         </tr>
         `;
     }

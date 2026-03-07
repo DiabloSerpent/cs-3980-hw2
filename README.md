@@ -1,1 +1,4 @@
-Small website that displays the US population from 2013 to 2023
+Small webpage that displays the US population from 2013 to 2023
+
+Example of what the webpage should look like:
+![](Screenshot 2026-03-06 183513.png)

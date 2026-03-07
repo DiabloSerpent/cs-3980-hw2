@@ -1,4 +1,8 @@
-.table-header {
+th {
     font-size: x-large;
+    padding: 0 10px;
 }
 
+table, th, td {
+    border: 1px solid black;
+}
